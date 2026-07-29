@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "LC Dislike Count",
+  "name": "Dislike Count for LeetCode",
   "version": "1.0.0",
-  "description": "Shows the hidden dislike count next to the dislike button on LeetCode problem pages.",
+  "description": "Shows the hidden dislike count on LeetCode problem pages — restores dislikes next to likes so you can judge problem quality.",
   "homepage_url": "https://github.com/adarsh-sgh/lc-dislike",
   "icons": {
     "16": "icons/icon16.png",

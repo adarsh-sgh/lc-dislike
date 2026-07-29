@@ -1,6 +1,6 @@
-# LC Dislike Count
+# Dislike Count for LeetCode
 
-Chrome extension that brings back the dislike count on LeetCode problem pages. LeetCode hides the number in its UI but the GraphQL API still returns it, so this fetches it and shows it inside the dislike button.
+Chrome extension that restores the hidden LeetCode dislike count on problem pages. LeetCode hides the number in its UI but the GraphQL API still returns it, so this fetches it and shows it inside the dislike button, next to the likes.
 
 ## Install
 
